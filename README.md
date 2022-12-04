@@ -26,6 +26,8 @@ This article will help you to do following things in VS Code	Code Completion , C
 
 9.	Bracket Pair Colorizer
 
+![alt text](https://github.com/cknitin/visual-code-configuration/blob/main/Bracket%20Pair%20Colorizer.png?raw=true)
+
 10.	Npm intellisence
 
 11.	Code Formatting
